@@ -1,7 +1,7 @@
 <template>
   <main
     class="container mx-auto mt-[12rem] px-4 py-16 xl:mt-16">
-    <tasks />
+    <Tasks />
   </main>
 </template>
 
@@ -11,5 +11,5 @@ body {
 }
 </style>
 <script setup>
-import Tasks from '@/components/tasks/tasks.vue';
+import Tasks from '@/components/tasks/Tasks.vue';
 </script>

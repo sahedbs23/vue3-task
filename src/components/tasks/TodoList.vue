@@ -7,7 +7,7 @@
         class="mb-2 flex items-center justify-between rounded border border-gray-400 p-2"
       >
         <span>
-          <i class="far fa-square mr-2"></i> {{ todo }}
+          <i class="far fa-square mr-2" /> {{ todo }}
         </span>
         <img
           src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg"
